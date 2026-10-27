@@ -26,3 +26,10 @@ PY
 
 ## Limitations and next steps
 This demo does not call the API under test, resolve every OpenAPI reference, validate every schema, or generate executable tests. Review the plan and add a separately configured test runner with explicit base URLs, authentication from environment variables, timeouts, test-data cleanup, and an allowlist so generated tests cannot hit unintended systems.
+
+## Explore more
+
+- [AI Automated QA Test Generator](https://github.com/HardikPaghdar/ai-automated-qa-test-generator) — requirements-based test plans.
+- [AI Website Audit Agent](https://github.com/HardikPaghdar/ai-website-audit-agent) — rule-based HTML audit.
+- [AI Agent Evaluation Platform](https://github.com/HardikPaghdar/ai-agent-evaluation-platform) — agent run evaluation.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
